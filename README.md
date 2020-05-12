@@ -1,6 +1,6 @@
 Text Mining with R.
 =====================
-This project was created during an R course at the [ITMO University Digital Humanities Center](http://dh.itmo.ru/en_about).
+This project was created during the R course at the [ITMO University Digital Humanities Center](http://dh.itmo.ru/en_about).
 
 The result of the project was stylistical and sentiment analysis of British writers using the "R" programming language.
 
