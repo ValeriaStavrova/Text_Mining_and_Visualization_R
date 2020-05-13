@@ -1,4 +1,4 @@
-Text Mining with R.
+Text Mining and Visualization with R.
 =====================
 This project was created during the R course at the [ITMO University Digital Humanities Center](http://dh.itmo.ru/en_about).
 
